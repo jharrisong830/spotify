@@ -2,3 +2,5 @@
 .cache
 *.DS_Store
 __pycache__/
+songs_extended_metadata.json
+songs.json
